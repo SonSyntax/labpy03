@@ -6,6 +6,9 @@
 
 ## LATIHAN 1
 
+![labpy03 1](https://github.com/user-attachments/assets/a6ead349-5415-4f4c-a97d-964af77a6ad9)
+
+
 ```Python
 from random import random
 
@@ -43,6 +46,11 @@ Kode ini menggunakan perulangan dengan fungsi `while` yang dimana mengprogram Va
 ````
 kenapa dikasih proses ke program i += 1 yaitu akan menambahkan menjadi 2, karna di program itu index 1 = 0, Jika 0 < N maka output yang keluar tanpa batas.
 
+<p>hasil program tersebut</p>
+
+![Hasilrandom](https://github.com/user-attachments/assets/74259c6f-b0f6-4f1f-8c73-4efddb35b929)
+
+
 ## LATIHAN 2
 
 ![labpy03 2](https://github.com/user-attachments/assets/bd834ab8-03d4-404a-92c0-511c27fa27d3)
@@ -65,6 +73,10 @@ for bulan in range(1, 9):
     total_laba += laba
 print(f"Total laba adalah: {total_laba}")
 ````
+
+<p>Hasil Program tersebut</p>
+
+![hasillaba](https://github.com/user-attachments/assets/61f282a0-6b41-4867-a7e7-88a070e560ea)
 
 ### Hitung total selama 8 bulan berjalan usahanya
 
