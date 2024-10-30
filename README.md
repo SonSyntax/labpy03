@@ -195,3 +195,7 @@ Dan Jika memilih angka 2, maka yang di pilih Output Keluar, yang mencetak "Terim
 
 jika tidak memilih selain 1 atau 2, akan mencetak "Pilihan tidak valid!", dan fungsi `print()` Untuk Menambahkan baris kosong untuk pemisah antar transaksi
 
+<p>hasil program tersebut</p>
+
+![hasil atm](https://github.com/user-attachments/assets/fee9f579-d62d-4e08-a26c-5d43127c24f1)
+
